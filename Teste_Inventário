@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main()
+  // Declarar variáveis Produto, u i estoque, double valor unitário, double valor
+  // u i quantidade mínima
+  char produto
+
+  // Exibir as informações do produto
+
+  // Comparações com o valor mínimo de estouqe
+
+  // Comparações entre os valores totais dos produtos
