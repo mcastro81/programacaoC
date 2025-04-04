@@ -2,7 +2,11 @@
 int main()
   // Declarar variáveis Produto, u i estoque, double valor unitário, double valor
   // u i quantidade mínima
-  char produto
+  char produtoA[30] = "ProdutoA";
+  char produtoB[30] = "ProdutoB";
+
+  unsigned int estoqueA = 1000;
+  unsigned int estoqueB = 2000;
 
   // Exibir as informações do produto
 
